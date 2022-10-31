@@ -1,7 +1,7 @@
 
 # Django rest framework  Template  3.0 
 
-<strong>This is a django project that include basic functionalities needed for mostly every projects. </strong>
+<strong>This is a django project that include basic functionalities needed for mostly every projects.. </strong>
 
 # It includes 
   1) Authentication
